@@ -1,5 +1,4 @@
 Hey there! 👋
-
 This repo is my personal HTML practice playground. I made it to practice all important HTML tags and prepare for front-end interviews. It’s meant for beginners, interview prep, or anyone who wants a quick reference to HTML tags.
 
 HTML Tags to Know
