@@ -5,89 +5,59 @@ HTML Tags to Know
 Basics
 
 <!DOCTYPE html> – tells the browser it’s HTML
-
 <html> – root tag
-
 <head> – meta info, CSS, JS
-
 <title> – page title
-
 <body> – visible content
 
 Text
 
 Headings: <h1> to <h6>
-
 Paragraph: <p>
-
 Bold/Strong: <b>, <strong>
-
 Italic/Emphasis: <i>, <em>
-
 Line break: <br>
-
 Horizontal line: <hr>
-
 Subscript/Superscript: <sub>, <sup>
-
 Highlight: <mark>
 
 Links & Media
 
 Links: <a href="...">
-
 Images: <img src="..." alt="...">
-
 Video/Audio: <video>, <audio>
-
 Embed other pages: <iframe>
 
 Lists
 
 Ordered: <ol>
-
 Unordered: <ul>
-
 List item: <li>
-
 Description list: <dl>, <dt>, <dd>
 
 Tables
 
 <table> – table
-
 <tr> – row
-
 <td> – cell
-
 <th> – header
-
 <thead>, <tbody>, <tfoot> – sections
 
 Forms
 
 <form> – form wrapper
-
 <input> – input field
-
 <textarea> – multi-line text
-
 <button> – submit button
-
 <select> / <option> – dropdown
-
 <label> – input label
 
 Semantic / Structural
 
 <header>, <footer>, <main>
-
 <section>, <article>, <aside>
-
 <nav> – navigation
-
 <div> – container
-
 <span> – inline container
 
 Top 40 HTML Interview Questions
